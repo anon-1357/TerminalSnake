@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python >=3.6
+Python >=3.6  
 Curses
 
 ### Installing
